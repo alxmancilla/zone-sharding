@@ -1,0 +1,6 @@
+fastapi==0.95.0
+uvicorn==0.22.0
+pydantic==1.10.2
+pymongo==4.3.3
+certifi==2023.1.1
+python-dotenv==1.0.0
