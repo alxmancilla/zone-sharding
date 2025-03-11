@@ -5,7 +5,7 @@ This project provides a FastAPI-based API for performing CRUD operations on a Mo
 ## Prerequisites
 
 - Python 3.8+
-- MongoDB instance
+- MongoDB sharded cluster
 - `pip` (Python package installer)
 
 ## Installation
@@ -82,7 +82,6 @@ This project provides a FastAPI-based API for performing CRUD operations on a Mo
           "addressId": 987654,
           "line1": "123 Main St",
           "line2": "Apt 4B",
-          "line3": null,
           "city": "New York",
           "stateCode": "NY",
           "postalCode": "10001",
